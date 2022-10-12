@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gupth\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gupth\\.nuget\\packages"
+    ]
+  }
+}
