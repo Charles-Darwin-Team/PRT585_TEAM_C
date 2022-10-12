@@ -21,6 +21,7 @@ namespace _2DataAccessLayer.Ioc
             services.AddScoped<IPersonDal, PersonDal>();
             services.AddScoped<IStudentDal, StudentDal>();
             services.AddScoped<ILaptopDal, LaptopDal>();
+            services.AddScoped<IVehicleDal, VehicleDal>();
 
         }
     }
