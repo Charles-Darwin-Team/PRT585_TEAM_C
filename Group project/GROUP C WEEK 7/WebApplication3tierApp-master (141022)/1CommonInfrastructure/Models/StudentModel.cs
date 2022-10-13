@@ -7,12 +7,10 @@ using System.Threading.Tasks;
 
 namespace _1CommonInfrastructure.Models
 {
-    public class VehicleModel
+    public class StudentModel
     {
-        public int VehicleId { get; set; } // int
-        public string VehicleName { get; set; } // nvarchar(400)
-
-        public string VehicleColour { get; set; }
+        public int StudentId { get; set; } // int
+        public string StudentName { get; set; } // nvarchar(400)
 
     }
 

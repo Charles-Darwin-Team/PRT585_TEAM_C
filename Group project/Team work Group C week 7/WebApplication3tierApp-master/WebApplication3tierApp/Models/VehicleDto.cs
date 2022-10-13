@@ -6,7 +6,9 @@ namespace WebApplication3tierApp.Models
     {
         public int VehicleId { get; set; }
         public string VehicleName { get; set; }
-                        
+
+        public string VehicleColour { get; set; }
+
     }
 
     public static class VehicleDtoMapExtensions
@@ -15,7 +17,8 @@ namespace WebApplication3tierApp.Models
         {
             var dst = new VehicleDto();
             dst.VehicleId = src.VehicleId;
-            dst.VehicleName = src.VehicleName;            
+            dst.VehicleName = src.VehicleName;
+            dst.VehicleColour = src.VehicleColour;
             return dst;
         }
 
@@ -23,7 +26,8 @@ namespace WebApplication3tierApp.Models
         {
             var dst = new VehicleModel();
             dst.VehicleId = src.VehicleId;
-            dst.VehicleName = src.VehicleName;            
+            dst.VehicleName = src.VehicleName;
+            dst.VehicleColour = src.VehicleColour;
             return dst;
         }
     }

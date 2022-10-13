@@ -11,64 +11,64 @@ using System.Threading.Tasks;
 
 namespace _2DataAccessLayer.Services
 {
-    public class StudentDal : IStudentDal
+    public class VehicleDal : IVehicleDal
     {
         //private readonly TestDBEntities context;
         private DBEntitiesContext _db;
-        public StudentDal(DBEntitiesContext dbctx)
+        public VehicleDal(DBEntitiesContext dbctx)
         {
             this._db = dbctx; // new TestDBEntities();
         }
 
 
-        public List<StudentModel> GetAll()
+        public List<VehicleModel> GetAll()
         {
-            var result = _db.Students.ToList();
+            var result = _db.Vehicles.ToList();
 
-            var returnObject = new List<StudentModel>();
+            var returnObject = new List<VehicleModel>();
             foreach (var item in result)
             {
-                returnObject.Add(item.ToStudentModel());
+                returnObject.Add(item.ToVehicleModel());
             }
 
             return returnObject;
         }
 
-        public StudentModel? GetById(int StudentId)
+        public VehicleModel? GetById(int VehicleId)
         {
-            var result = _db.Students.SingleOrDefault(x => x.StudentId == StudentId);
-            return result?.ToStudentModel();
+            var result = _db.Vehicles.SingleOrDefault(x => x.VehicleId == VehicleId);
+            return result?.ToVehicleModel();
         }
 
 
-        public int CreateStudent(StudentModel Student)
+        public int CreateVehicle(VehicleModel Vehicle)
         {
-            var newStudent = Student.ToStudent();
-            _db.Students.Add(newStudent);
+            var newVehicle = Vehicle.ToVehicle();
+            _db.Vehicles.Add(newVehicle);
             _db.SaveChanges();
-            return newStudent.StudentId;
+            return newVehicle.VehicleId;
         }
 
 
-        public void UpdateStudent(StudentModel Student)
+        public void UpdateVehicle(VehicleModel Vehicle)
         {
-            var existingStudent = _db.Students
-                .SingleOrDefault(x => x.StudentId == Student.StudentId);
+            var existingVehicle = _db.Vehicles
+                .SingleOrDefault(x => x.VehicleId == Vehicle.VehicleId);
 
-            if (existingStudent == null)
+            if (existingVehicle == null)
             {
-                throw new ApplicationException($"Student {Student.StudentId} does not exist.");
+                throw new ApplicationException($"Vehicle {Vehicle.VehicleId} does not exist.");
             }
-            Student.ToStudent(existingStudent);
+            Vehicle.ToVehicle(existingVehicle);
 
-            _db.Update(existingStudent);
+            _db.Update(existingVehicle);
             _db.SaveChanges();
         }
 
-        public void DeleteStudent(int StudentId)
+        public void DeleteVehicle(int VehicleId)
         {
-            var efModel = _db.Students.Find(StudentId);
-            _db.Students.Remove(efModel);
+            var efModel = _db.Vehicles.Find(VehicleId);
+            _db.Vehicles.Remove(efModel);
             _db.SaveChanges();
 
 

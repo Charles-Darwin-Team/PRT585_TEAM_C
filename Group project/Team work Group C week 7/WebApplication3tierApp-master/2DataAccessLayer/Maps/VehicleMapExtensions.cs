@@ -17,6 +17,7 @@ namespace _2DataAccessLayer.Maps
 
             dst.VehicleId = src.VehicleId;
             dst.VehicleName = src.VehicleName;
+            dst.VehicleColour = src.VehicleColour;
 
             return dst;
         }
@@ -30,6 +31,7 @@ namespace _2DataAccessLayer.Maps
 
             dst.VehicleId = src.VehicleId;
             dst.VehicleName = src.VehicleName;
+            dst.VehicleColour = src.VehicleColour;
 
             return dst;
         }

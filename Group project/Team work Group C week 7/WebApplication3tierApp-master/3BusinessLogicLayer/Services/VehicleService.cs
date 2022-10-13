@@ -6,54 +6,54 @@ using _3BusinessLogicLayer.Interfaces;
 
 namespace _3BusinessLogicLayer.Services
 {
-    public class LaptopService :  ILaptopService
+    public class VehicleService :  IVehicleService
     {
-        private readonly ILaptopDal _LaptopDal;
-        //private readonly ILaptopBalService _LaptopBalService;
-        public LaptopService(ILaptopDal LaptopDal
+        private readonly IVehicleDal _VehicleDal;
+        //private readonly IVehicleBalService _VehicleBalService;
+        public VehicleService(IVehicleDal VehicleDal
         //ILoggingService loggingService,
-        //ILaptopDal LaptopDal,
+        //IVehicleDal VehicleDal,
         //IAuditDal auditDal
-       // ILaptopBalanceService balsvc
+       // IVehicleBalanceService balsvc
         ) 
         {
-            _LaptopDal = LaptopDal;
-            // _LaptopBalService = balsvc;
+            _VehicleDal = VehicleDal;
+            // _VehicleBalService = balsvc;
         }
 
-        public async Task<LaptopModel?> GetById(int LaptopId)
+        public async Task<VehicleModel?> GetById(int VehicleId)
         {           
-            return _LaptopDal.GetById(LaptopId);
+            return _VehicleDal.GetById(VehicleId);
         }
 
-        public async Task<List<LaptopModel>> GetAll()
+        public async Task<List<VehicleModel>> GetAll()
         {            
-            return _LaptopDal.GetAll();
+            return _VehicleDal.GetAll();
         }
 
-        public async Task<int> CreateLaptop(LaptopModel Laptop)
+        public async Task<int> CreateVehicle(VehicleModel Vehicle)
         {
             //write validations here
-            var newLaptopId = _LaptopDal.CreateLaptop(Laptop);
-            return newLaptopId;
+            var newVehicleId = _VehicleDal.CreateVehicle(Vehicle);
+            return newVehicleId;
         }
 
-        public async Task UpdateLaptop(LaptopModel Laptop)
+        public async Task UpdateVehicle(VehicleModel Vehicle)
         {
             //write validations here 
-            _LaptopDal.UpdateLaptop(Laptop);
+            _VehicleDal.UpdateVehicle(Vehicle);
         }
 
-        public async Task DeleteLaptop(int LaptopId)
+        public async Task DeleteVehicle(int VehicleId)
         {            
             try
             {
-                //if(balservice.getBal(LaptopId) = 0)
-                _LaptopDal.DeleteLaptop(LaptopId);
+                //if(balservice.getBal(VehicleId) = 0)
+                _VehicleDal.DeleteVehicle(VehicleId);
             }
             catch (Exception e)
             {
-                //_loggingService.WriteLog(LoggingLevel.Error, "Layer", $"Error delete Laptop Id:{LaptopId}. {e.Message}", e.StackTrace);
+                //_loggingService.WriteLog(LoggingLevel.Error, "Layer", $"Error delete Vehicle Id:{VehicleId}. {e.Message}", e.StackTrace);
             }
         }
     }

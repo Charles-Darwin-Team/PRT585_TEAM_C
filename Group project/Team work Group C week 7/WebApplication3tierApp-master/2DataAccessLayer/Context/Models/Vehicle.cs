@@ -10,6 +10,6 @@ namespace _2DataAccessLayer.Context.Models
     {
         public int VehicleId { get; set; } // int
         public string VehicleName { get; set; } // nvarchar(400)
-        public int VehicleYear { get; set; }
+        public string VehicleColour { get; set; }
     }
 }
