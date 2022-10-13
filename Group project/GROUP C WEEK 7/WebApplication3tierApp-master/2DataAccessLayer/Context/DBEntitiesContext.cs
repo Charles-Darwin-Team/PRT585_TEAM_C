@@ -21,6 +21,8 @@ namespace _2DataAccessLayer.Context
         public DbSet<Student> Students { get; set; }
 
         public DbSet<Employee> Employees { get; set; }
+
+        public DbSet<Phone> Phones { get; set; }
         //public DbSet<Category> Categories { get; set; }
     }
 

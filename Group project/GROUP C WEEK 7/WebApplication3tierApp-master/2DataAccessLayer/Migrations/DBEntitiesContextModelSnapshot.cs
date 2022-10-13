@@ -86,6 +86,27 @@ namespace _2DataAccessLayer.Migrations
                     b.ToTable("People");
                 });
 
+            modelBuilder.Entity("_2DataAccessLayer.Context.Models.Phone", b =>
+                {
+                    b.Property<int>("PhoneId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("PhoneId"), 1L, 1);
+
+                    b.Property<string>("PhoneMake")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PhoneName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("PhoneId");
+
+                    b.ToTable("Phones");
+                });
+
             modelBuilder.Entity("_2DataAccessLayer.Context.Models.Student", b =>
                 {
                     b.Property<int>("StudentId")
