@@ -23,6 +23,7 @@ namespace _2DataAccessLayer.Ioc
             services.AddScoped<IEmployeeDal, EmployeeDal>();
             services.AddScoped<IPhoneDal, PhoneDal>();
             services.AddScoped<ILaptopDal, LaptopDal>();
+            services.AddScoped<ICarDal, CarDal>();
 
         }
     }
