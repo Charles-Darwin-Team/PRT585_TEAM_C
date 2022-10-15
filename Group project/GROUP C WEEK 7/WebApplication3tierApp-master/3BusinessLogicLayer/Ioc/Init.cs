@@ -15,6 +15,7 @@ namespace _3BusinessLogicLayer.Ioc
             services.AddScoped<IStudentService, StudentService>();
             services.AddScoped<IEmployeeService, EmployeeService>();
             services.AddScoped<IPhoneService, PhoneService>();
+            services.AddScoped<ILaptopService, LaptopService>();
             //services.AddScoped<ICategoryService, CategoryService>();
 
         }
