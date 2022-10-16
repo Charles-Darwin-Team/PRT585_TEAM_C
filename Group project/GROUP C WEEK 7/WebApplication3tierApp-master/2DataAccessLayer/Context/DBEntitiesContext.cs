@@ -30,6 +30,7 @@ namespace _2DataAccessLayer.Context
 
         public DbSet<Book> Books { get; set; }
         public DbSet<Player> Players { get; set; }
+        public DbSet<Sport> Sports { get; set; }
         //public DbSet<Category> Categories { get; set; }
     }
 

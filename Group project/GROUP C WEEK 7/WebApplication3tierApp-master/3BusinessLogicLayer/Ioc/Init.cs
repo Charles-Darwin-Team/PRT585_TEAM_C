@@ -19,6 +19,7 @@ namespace _3BusinessLogicLayer.Ioc
             services.AddScoped<ICarService, CarService>();
             services.AddScoped<IBookService, BookService>();
             services.AddScoped<IPlayerService, PlayerService>();
+            services.AddScoped<ISportService, SportService>();
             //services.AddScoped<ICategoryService, CategoryService>();
 
         }
