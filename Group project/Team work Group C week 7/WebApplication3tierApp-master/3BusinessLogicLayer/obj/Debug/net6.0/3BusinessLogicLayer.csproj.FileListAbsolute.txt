@@ -1,0 +1,25 @@
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\3BusinessLogicLayer\bin\Debug\net6.0\3BusinessLogicLayer.deps.json
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\3BusinessLogicLayer\bin\Debug\net6.0\3BusinessLogicLayer.dll
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\3BusinessLogicLayer\bin\Debug\net6.0\3BusinessLogicLayer.pdb
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\3BusinessLogicLayer\bin\Debug\net6.0\1CommonInfrastructure.dll
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\3BusinessLogicLayer\bin\Debug\net6.0\2DataAccessLayer.dll
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\3BusinessLogicLayer\bin\Debug\net6.0\1CommonInfrastructure.pdb
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\3BusinessLogicLayer\bin\Debug\net6.0\2DataAccessLayer.pdb
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\3BusinessLogicLayer\obj\Debug\net6.0\3BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\3BusinessLogicLayer\obj\Debug\net6.0\3BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\3BusinessLogicLayer\obj\Debug\net6.0\3BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\3BusinessLogicLayer\obj\Debug\net6.0\3BusinessLogicLayer.AssemblyInfo.cs
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\3BusinessLogicLayer\obj\Debug\net6.0\3BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\3BusinessLogicLayer\obj\Debug\net6.0\3BusinessLogicLayer.csproj.CopyComplete
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\3BusinessLogicLayer\obj\Debug\net6.0\3BusinessLogicLayer.dll
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\3BusinessLogicLayer\obj\Debug\net6.0\refint\3BusinessLogicLayer.dll
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\3BusinessLogicLayer\obj\Debug\net6.0\3BusinessLogicLayer.pdb
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\3BusinessLogicLayer\obj\Debug\net6.0\ref\3BusinessLogicLayer.dll
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\3BusinessLogicLayer\obj\Debug\net6.0\3BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\3BusinessLogicLayer\obj\Debug\net6.0\3BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\3BusinessLogicLayer\obj\Debug\net6.0\3BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\3BusinessLogicLayer\obj\Debug\net6.0\3BusinessLogicLayer.AssemblyInfo.cs
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\3BusinessLogicLayer\obj\Debug\net6.0\3BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\3BusinessLogicLayer\obj\Debug\net6.0\3BusinessLogicLayer.dll
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\3BusinessLogicLayer\obj\Debug\net6.0\refint\3BusinessLogicLayer.dll
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\3BusinessLogicLayer\obj\Debug\net6.0\3BusinessLogicLayer.pdb

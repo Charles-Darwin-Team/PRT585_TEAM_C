@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CDU\\sem 5\\GitHub\\PRT585_TEAM_C\\Group project\\Team work Group C week 7\\WebApplication3tierApp-master\\2DataAccessLayer\\2DataAccessLayer.csproj": {}
+  },
+  "projects": {
+    "D:\\CDU\\sem 5\\GitHub\\PRT585_TEAM_C\\Group project\\Team work Group C week 7\\WebApplication3tierApp-master\\1CommonInfrastructure\\1CommonInfrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CDU\\sem 5\\GitHub\\PRT585_TEAM_C\\Group project\\Team work Group C week 7\\WebApplication3tierApp-master\\1CommonInfrastructure\\1CommonInfrastructure.csproj",
+        "projectName": "1CommonInfrastructure",
+        "projectPath": "D:\\CDU\\sem 5\\GitHub\\PRT585_TEAM_C\\Group project\\Team work Group C week 7\\WebApplication3tierApp-master\\1CommonInfrastructure\\1CommonInfrastructure.csproj",
+        "packagesPath": "C:\\Users\\gupth\\.nuget\\packages\\",
+        "outputPath": "D:\\CDU\\sem 5\\GitHub\\PRT585_TEAM_C\\Group project\\Team work Group C week 7\\WebApplication3tierApp-master\\1CommonInfrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gupth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CDU\\sem 5\\GitHub\\PRT585_TEAM_C\\Group project\\Team work Group C week 7\\WebApplication3tierApp-master\\2DataAccessLayer\\2DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CDU\\sem 5\\GitHub\\PRT585_TEAM_C\\Group project\\Team work Group C week 7\\WebApplication3tierApp-master\\2DataAccessLayer\\2DataAccessLayer.csproj",
+        "projectName": "2DataAccessLayer",
+        "projectPath": "D:\\CDU\\sem 5\\GitHub\\PRT585_TEAM_C\\Group project\\Team work Group C week 7\\WebApplication3tierApp-master\\2DataAccessLayer\\2DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\gupth\\.nuget\\packages\\",
+        "outputPath": "D:\\CDU\\sem 5\\GitHub\\PRT585_TEAM_C\\Group project\\Team work Group C week 7\\WebApplication3tierApp-master\\2DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gupth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\CDU\\sem 5\\GitHub\\PRT585_TEAM_C\\Group project\\Team work Group C week 7\\WebApplication3tierApp-master\\1CommonInfrastructure\\1CommonInfrastructure.csproj": {
+                "projectPath": "D:\\CDU\\sem 5\\GitHub\\PRT585_TEAM_C\\Group project\\Team work Group C week 7\\WebApplication3tierApp-master\\1CommonInfrastructure\\1CommonInfrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

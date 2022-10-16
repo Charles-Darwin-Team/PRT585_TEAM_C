@@ -1,0 +1,25 @@
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\2DataAccessLayer\bin\Debug\net6.0\2DataAccessLayer.deps.json
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\2DataAccessLayer\bin\Debug\net6.0\2DataAccessLayer.runtimeconfig.json
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\2DataAccessLayer\bin\Debug\net6.0\2DataAccessLayer.dll
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\2DataAccessLayer\bin\Debug\net6.0\2DataAccessLayer.pdb
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\2DataAccessLayer\bin\Debug\net6.0\1CommonInfrastructure.dll
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\2DataAccessLayer\bin\Debug\net6.0\1CommonInfrastructure.pdb
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\2DataAccessLayer\obj\Debug\net6.0\2DataAccessLayer.csproj.AssemblyReference.cache
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\2DataAccessLayer\obj\Debug\net6.0\2DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\2DataAccessLayer\obj\Debug\net6.0\2DataAccessLayer.AssemblyInfoInputs.cache
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\2DataAccessLayer\obj\Debug\net6.0\2DataAccessLayer.AssemblyInfo.cs
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\2DataAccessLayer\obj\Debug\net6.0\2DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\2DataAccessLayer\obj\Debug\net6.0\2DataAccessLayer.csproj.CopyComplete
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\2DataAccessLayer\obj\Debug\net6.0\2DataAccessLayer.dll
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\2DataAccessLayer\obj\Debug\net6.0\refint\2DataAccessLayer.dll
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\2DataAccessLayer\obj\Debug\net6.0\2DataAccessLayer.pdb
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\2DataAccessLayer\obj\Debug\net6.0\2DataAccessLayer.genruntimeconfig.cache
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\2DataAccessLayer\obj\Debug\net6.0\ref\2DataAccessLayer.dll
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\2DataAccessLayer\obj\Debug\net6.0\2DataAccessLayer.csproj.AssemblyReference.cache
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\2DataAccessLayer\obj\Debug\net6.0\2DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\2DataAccessLayer\obj\Debug\net6.0\2DataAccessLayer.AssemblyInfoInputs.cache
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\2DataAccessLayer\obj\Debug\net6.0\2DataAccessLayer.AssemblyInfo.cs
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\2DataAccessLayer\obj\Debug\net6.0\2DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\2DataAccessLayer\obj\Debug\net6.0\2DataAccessLayer.dll
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\2DataAccessLayer\obj\Debug\net6.0\refint\2DataAccessLayer.dll
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\2DataAccessLayer\obj\Debug\net6.0\2DataAccessLayer.pdb

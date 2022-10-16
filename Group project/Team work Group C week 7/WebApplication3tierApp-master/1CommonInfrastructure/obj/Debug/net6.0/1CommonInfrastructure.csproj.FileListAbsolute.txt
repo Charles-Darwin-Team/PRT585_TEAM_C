@@ -1,0 +1,24 @@
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\1CommonInfrastructure\bin\Debug\net6.0\1CommonInfrastructure.deps.json
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\1CommonInfrastructure\bin\Debug\net6.0\1CommonInfrastructure.dll
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\1CommonInfrastructure\bin\Debug\net6.0\1CommonInfrastructure.pdb
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\1CommonInfrastructure\obj\Debug\net6.0\1CommonInfrastructure.csproj.AssemblyReference.cache
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\1CommonInfrastructure\obj\Debug\net6.0\1CommonInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\1CommonInfrastructure\obj\Debug\net6.0\1CommonInfrastructure.AssemblyInfoInputs.cache
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\1CommonInfrastructure\obj\Debug\net6.0\1CommonInfrastructure.AssemblyInfo.cs
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\1CommonInfrastructure\obj\Debug\net6.0\1CommonInfrastructure.csproj.CoreCompileInputs.cache
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\1CommonInfrastructure\obj\Debug\net6.0\1CommonInfrastructure.dll
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\1CommonInfrastructure\obj\Debug\net6.0\refint\1CommonInfrastructure.dll
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\1CommonInfrastructure\obj\Debug\net6.0\1CommonInfrastructure.pdb
+D:\CDU\sem 5\PRT 585\WebApplication3tierApp-master(1)\WebApplication3tierApp-master\1CommonInfrastructure\obj\Debug\net6.0\ref\1CommonInfrastructure.dll
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\1CommonInfrastructure\bin\Debug\net6.0\1CommonInfrastructure.deps.json
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\1CommonInfrastructure\bin\Debug\net6.0\1CommonInfrastructure.dll
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\1CommonInfrastructure\bin\Debug\net6.0\1CommonInfrastructure.pdb
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\1CommonInfrastructure\obj\Debug\net6.0\1CommonInfrastructure.csproj.AssemblyReference.cache
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\1CommonInfrastructure\obj\Debug\net6.0\1CommonInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\1CommonInfrastructure\obj\Debug\net6.0\1CommonInfrastructure.AssemblyInfoInputs.cache
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\1CommonInfrastructure\obj\Debug\net6.0\1CommonInfrastructure.AssemblyInfo.cs
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\1CommonInfrastructure\obj\Debug\net6.0\1CommonInfrastructure.csproj.CoreCompileInputs.cache
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\1CommonInfrastructure\obj\Debug\net6.0\1CommonInfrastructure.dll
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\1CommonInfrastructure\obj\Debug\net6.0\refint\1CommonInfrastructure.dll
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\1CommonInfrastructure\obj\Debug\net6.0\1CommonInfrastructure.pdb
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Team work Group C week 7\WebApplication3tierApp-master\1CommonInfrastructure\obj\Debug\net6.0\ref\1CommonInfrastructure.dll
