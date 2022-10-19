@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A7xFvbTbQvZvw/eih3iEUBJspsBwyEFJ1yOktmVhGPxRh4njHw5BS+e1FR6sqyLDEbOvkcckbYKERDJQkCcOcA==",
+  "dgSpecHash": "Xks1mfKH+jCzcXd80kGSLJt6PEHf72Hx4vi8nMKPmLqOvi4el9+Fe9RdxQGrUWrGLiz+b3SyBjQ+1nS7+BLclA==",
   "success": true,
-  "projectFilePath": "D:\\CDU\\sem 5\\PRT 585\\Code from github\\ASP.NET-Core-Razor-Pages-CRUD-Operations-main\\ASP.NET-Core-Razor-Pages-CRUD-Operations-main\\MovieCrud\\MovieCrud.csproj",
+  "projectFilePath": "D:\\CDU\\sem 5\\GitHub\\PRT585_TEAM_C\\Group project\\Jagruthi Web App\\MovieCrud\\MovieCrud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gupth\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\gupth\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

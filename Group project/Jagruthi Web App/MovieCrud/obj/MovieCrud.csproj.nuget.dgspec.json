@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CDU\\sem 5\\PRT 585\\Code from github\\ASP.NET-Core-Razor-Pages-CRUD-Operations-main\\ASP.NET-Core-Razor-Pages-CRUD-Operations-main\\MovieCrud\\MovieCrud.csproj": {}
+    "D:\\CDU\\sem 5\\GitHub\\PRT585_TEAM_C\\Group project\\Jagruthi Web App\\MovieCrud\\MovieCrud.csproj": {}
   },
   "projects": {
-    "D:\\CDU\\sem 5\\PRT 585\\Code from github\\ASP.NET-Core-Razor-Pages-CRUD-Operations-main\\ASP.NET-Core-Razor-Pages-CRUD-Operations-main\\MovieCrud\\MovieCrud.csproj": {
+    "D:\\CDU\\sem 5\\GitHub\\PRT585_TEAM_C\\Group project\\Jagruthi Web App\\MovieCrud\\MovieCrud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CDU\\sem 5\\PRT 585\\Code from github\\ASP.NET-Core-Razor-Pages-CRUD-Operations-main\\ASP.NET-Core-Razor-Pages-CRUD-Operations-main\\MovieCrud\\MovieCrud.csproj",
+        "projectUniqueName": "D:\\CDU\\sem 5\\GitHub\\PRT585_TEAM_C\\Group project\\Jagruthi Web App\\MovieCrud\\MovieCrud.csproj",
         "projectName": "MovieCrud",
-        "projectPath": "D:\\CDU\\sem 5\\PRT 585\\Code from github\\ASP.NET-Core-Razor-Pages-CRUD-Operations-main\\ASP.NET-Core-Razor-Pages-CRUD-Operations-main\\MovieCrud\\MovieCrud.csproj",
+        "projectPath": "D:\\CDU\\sem 5\\GitHub\\PRT585_TEAM_C\\Group project\\Jagruthi Web App\\MovieCrud\\MovieCrud.csproj",
         "packagesPath": "C:\\Users\\gupth\\.nuget\\packages\\",
-        "outputPath": "D:\\CDU\\sem 5\\PRT 585\\Code from github\\ASP.NET-Core-Razor-Pages-CRUD-Operations-main\\ASP.NET-Core-Razor-Pages-CRUD-Operations-main\\MovieCrud\\obj\\",
+        "outputPath": "D:\\CDU\\sem 5\\GitHub\\PRT585_TEAM_C\\Group project\\Jagruthi Web App\\MovieCrud\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gupth\\AppData\\Roaming\\NuGet\\NuGet.Config",
