@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sujan\\FullStack UI\\FullStack.API\\FullStack.API.csproj": {}
+    "C:\\Users\\sujan\\source\\GitHub\\PRT585_TEAM_C\\Group project\\Sujan_angular_practice\\FullStack UI\\FullStack.API\\FullStack.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sujan\\FullStack UI\\FullStack.API\\FullStack.API.csproj": {
+    "C:\\Users\\sujan\\source\\GitHub\\PRT585_TEAM_C\\Group project\\Sujan_angular_practice\\FullStack UI\\FullStack.API\\FullStack.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sujan\\FullStack UI\\FullStack.API\\FullStack.API.csproj",
+        "projectUniqueName": "C:\\Users\\sujan\\source\\GitHub\\PRT585_TEAM_C\\Group project\\Sujan_angular_practice\\FullStack UI\\FullStack.API\\FullStack.API.csproj",
         "projectName": "FullStack.API",
-        "projectPath": "C:\\Users\\sujan\\FullStack UI\\FullStack.API\\FullStack.API.csproj",
+        "projectPath": "C:\\Users\\sujan\\source\\GitHub\\PRT585_TEAM_C\\Group project\\Sujan_angular_practice\\FullStack UI\\FullStack.API\\FullStack.API.csproj",
         "packagesPath": "C:\\Users\\sujan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sujan\\FullStack UI\\FullStack.API\\obj\\",
+        "outputPath": "C:\\Users\\sujan\\source\\GitHub\\PRT585_TEAM_C\\Group project\\Sujan_angular_practice\\FullStack UI\\FullStack.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sujan\\AppData\\Roaming\\NuGet\\NuGet.Config",
