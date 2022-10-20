@@ -42,14 +42,14 @@ namespace WebApplication3tierApp.Controllers
             return await _MovieService.CreateMovie(MovieModel);
         }
 
-        [HttpPut, Route("update")]
+        [HttpPut, Route("{Id}")]
         public async Task<IActionResult> Update([FromBody] MovieDto requestDto)
         {
             await _MovieService.UpdateMovie(requestDto.ToMovieModel());
             return Ok();
         }
 
-        [HttpDelete, Route("{MovieId}")]
+        [HttpDelete, Route("{Id}")]
         public async Task<IActionResult> Delete(int MovieId)
         {
             await _MovieService.DeleteMovie(MovieId);

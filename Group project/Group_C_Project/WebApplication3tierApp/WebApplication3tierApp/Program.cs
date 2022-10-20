@@ -36,6 +36,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddDbContext<DBEntitiesContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))); 
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -47,6 +49,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseCors(policy => policy.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin());
 
 app.UseAuthorization();
 
