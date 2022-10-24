@@ -1,0 +1,28 @@
+<div class="container my-5">
+  <h1 class="mb-3">Add New Subject</h1>
+
+  <div class="row">
+      <div class="col-6">
+          <form #form="ngForm" (ngSubmit)="addSubject()">
+              
+              <div class="mb-3">
+                <label for="code" class="form-label">Code</label>
+                <input type="text" class="form-control" id="code" name="code" [(ngModel)]="addSubjectRequest.code">
+              </div>
+
+              <div class="mb-3">
+                  <label for="name" class="form-label">Name</label>
+                  <input type="text" class="form-control" id="name" name="name" [(ngModel)]="addSubjectRequest.name">
+                </div>
+
+                <div class="mb-3">
+                  <label for="semester" class="form-label">Semester</label>
+                  <input type="number" class="form-control" id="semester" name="semester" [(ngModel)]="addSubjectRequest.semester">
+                </div>
+              
+              <button type="submit" class="btn btn-primary">Save</button>
+            </form>
+      </div>
+  </div>
+
+</div>

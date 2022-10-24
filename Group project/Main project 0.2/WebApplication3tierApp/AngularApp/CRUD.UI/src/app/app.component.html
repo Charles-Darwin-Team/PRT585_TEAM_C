@@ -1,0 +1,68 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+  <div class="container">
+    <a class="navbar-brand" href="#">UNI Management</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" routerLink="">Home</a>
+        </li>
+
+        <!-- Ashish -->
+        <li class="nav-item dropdown">
+          <a
+            class="nav-link dropdown-toggle"
+            href="#"
+            role="button"
+            data-bs-toggle="dropdown"
+            aria-expanded="false"
+          >
+            Ashish
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" routerLink="students">Student List</a></li>
+            <li><a class="dropdown-item" routerLink="courses">Course List</a></li>
+          </ul>
+        </li>
+
+        <!-- Anand -->
+        <li class="nav-item dropdown">
+          <a
+            class="nav-link dropdown-toggle"
+            href="#"
+            role="button"
+            data-bs-toggle="dropdown"
+            aria-expanded="false"
+          >
+            Anand
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" routerLink="employees">Employee List</a></li>
+            <li><a class="dropdown-item" routerLink="subjects">Subject List</a></li>
+          </ul>
+        </li>
+
+        <!-- Sagar -->
+        <li class="nav-item dropdown">
+          <a
+            class="nav-link dropdown-toggle"
+            href="#"
+            role="button"
+            data-bs-toggle="dropdown"
+            aria-expanded="false"
+          >
+            Sagar
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" routerLink="lecturers">Lecturer List</a></li>
+          </ul>
+        </li>
+    </ul>
+    </div>
+  </div>
+</nav>
+
+<router-outlet></router-outlet>
