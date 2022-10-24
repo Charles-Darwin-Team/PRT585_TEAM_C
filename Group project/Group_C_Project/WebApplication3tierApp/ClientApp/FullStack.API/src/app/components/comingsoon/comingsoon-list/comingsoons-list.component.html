@@ -1,0 +1,21 @@
+<div class="container my-5">
+    <h1 class="mb-3">Comingsoons</h1>
+
+    <table class="table" *ngIf="comingsoons && comingsoons.length > 0">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th> </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let comingsoon of comingsoons">
+                <td>{{ comingsoon.id }}</td>
+                <td>{{ comingsoon.name }}</td>
+                <td><a [routerLink]="['/comingsoons', 'edit', comingsoon.id ]">View</a></td>
+            </tr>
+        </tbody>
+    </table>
+    <p *ngIf="!comingsoons || comingsoons.length <= 0">No Comingsoons Found</p>
+</div>
