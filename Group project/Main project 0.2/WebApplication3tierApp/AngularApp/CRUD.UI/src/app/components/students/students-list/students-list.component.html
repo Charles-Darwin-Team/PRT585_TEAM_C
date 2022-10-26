@@ -1,16 +1,16 @@
 <div class="container my-5">
-    <h1 class="mb-3">Students</h1>
+    <h1 class="mb-3">Sifi</h1>
 
-    <p><button type="button" class="btn btn-primary" [routerLink]="['add']" >Add New Student</button></p>
+    <p><button type="button" class="btn btn-primary" [routerLink]="['add']" >Add New Sifi</button></p>
 
     <table class="table" *ngIf="students && students.length > 0">
         <thead>
             <tr>
                 <th>Id</th>
                 <th>Name</th>
-                <th>Email</th>
-                <th>Phone</th>
-                <th>Course</th>
+                <th>IMDB Rating</th>
+                <th>Year</th>
+                <th>Category</th>
                 <th> </th>
             </tr>
         </thead>
@@ -25,5 +25,5 @@
             </tr>
         </tbody>
     </table>
-    <p *ngIf="!students || students.length <= 0">No Students Found</p>
+    <p *ngIf="!students || students.length <= 0">No Sifi Found</p>
 </div>

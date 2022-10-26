@@ -1,7 +1,7 @@
 <div class="container my-5">
-    <h1 class="mb-3">Courses</h1>
+    <h1 class="mb-3">Comedy</h1>
 
-    <p><button type="button" class="btn btn-primary" [routerLink]="['add']" >Add New Course</button></p>
+    <p><button type="button" class="btn btn-primary" [routerLink]="['add']" >Add New Comedy</button></p>
 
     <table class="table" *ngIf="courses && courses.length > 0">
         <thead>
@@ -21,5 +21,5 @@
             </tr>
         </tbody>
     </table>
-    <p *ngIf="!courses || courses.length <= 0">No Courses Found</p>
+    <p *ngIf="!courses || courses.length <= 0">No Comedy Found</p>
 </div>

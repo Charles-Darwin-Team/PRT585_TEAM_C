@@ -1,15 +1,15 @@
 <div class="container my-5">
-    <h1 class="mb-3">Lecturers</h1>
+    <h1 class="mb-3">Coming Soon</h1>
 
-    <p><button type="button" class="btn btn-primary" [routerLink]="['add']" >Add New Lecturer</button></p>
+    <p><button type="button" class="btn btn-primary" [routerLink]="['add']" >Add Coming Soon</button></p>
 
     <table class="table" *ngIf="lecturers && lecturers.length > 0">
         <thead>
             <tr>
                 <th>Id</th>
                 <th>Name</th>
-                <th>Email</th>
-                <th>Phone</th>
+                <th>IMDB</th>
+                <th>Year</th>
                 <th> </th>
             </tr>
         </thead>
@@ -23,5 +23,5 @@
             </tr>
         </tbody>
     </table>
-    <p *ngIf="!lecturers || lecturers.length <= 0">No Lecturers Found</p>
+    <p *ngIf="!lecturers || lecturers.length <= 0">No Coming Soon Found</p>
 </div>

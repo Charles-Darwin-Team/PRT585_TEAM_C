@@ -1,7 +1,7 @@
 <div class="container my-5">
-    <h1 class="mb-3">Subjects</h1>
+    <h1 class="mb-3">Hot Pack</h1>
 
-    <p><button type="button" class="btn btn-primary" [routerLink]="['add']" >Add New Subject</button></p>
+    <p><button type="button" class="btn btn-primary" [routerLink]="['add']" >Add New Hot Pack</button></p>
 
     <table class="table" *ngIf="subjects && subjects.length > 0">
         <thead>
@@ -23,5 +23,5 @@
             </tr>
         </tbody>
     </table>
-    <p *ngIf="!subjects || subjects.length <= 0">No Subjects Found</p>
+    <p *ngIf="!subjects || subjects.length <= 0">No Hot Pack Found</p>
 </div>
