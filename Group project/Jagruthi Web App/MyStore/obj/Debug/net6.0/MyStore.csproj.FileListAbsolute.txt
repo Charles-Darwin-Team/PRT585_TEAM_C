@@ -66,6 +66,7 @@ D:\CDU\sem 5\MyStore\obj\Debug\net6.0\refint\MyStore.dll
 D:\CDU\sem 5\MyStore\obj\Debug\net6.0\MyStore.pdb
 D:\CDU\sem 5\MyStore\obj\Debug\net6.0\MyStore.genruntimeconfig.cache
 D:\CDU\sem 5\MyStore\obj\Debug\net6.0\ref\MyStore.dll
+<<<<<<< Updated upstream
 C:\Users\sujan\source\GitHub\PRT585_TEAM_C\Group project\Jagruthi Web App\MyStore\obj\Debug\net6.0\MyStore.csproj.AssemblyReference.cache
 C:\Users\sujan\source\GitHub\PRT585_TEAM_C\Group project\Jagruthi Web App\MyStore\obj\Debug\net6.0\MyStore.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\sujan\source\GitHub\PRT585_TEAM_C\Group project\Jagruthi Web App\MyStore\obj\Debug\net6.0\MyStore.AssemblyInfoInputs.cache
@@ -77,3 +78,16 @@ C:\Users\sujan\source\GitHub\PRT585_TEAM_C\Group project\Jagruthi Web App\MyStor
 C:\Users\sujan\source\GitHub\PRT585_TEAM_C\Group project\Jagruthi Web App\MyStore\obj\Debug\net6.0\MyStore.dll
 C:\Users\sujan\source\GitHub\PRT585_TEAM_C\Group project\Jagruthi Web App\MyStore\obj\Debug\net6.0\refint\MyStore.dll
 C:\Users\sujan\source\GitHub\PRT585_TEAM_C\Group project\Jagruthi Web App\MyStore\obj\Debug\net6.0\MyStore.pdb
+=======
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Jagruthi Web App\MyStore\obj\Debug\net6.0\MyStore.csproj.AssemblyReference.cache
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Jagruthi Web App\MyStore\obj\Debug\net6.0\MyStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Jagruthi Web App\MyStore\obj\Debug\net6.0\MyStore.AssemblyInfoInputs.cache
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Jagruthi Web App\MyStore\obj\Debug\net6.0\MyStore.AssemblyInfo.cs
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Jagruthi Web App\MyStore\obj\Debug\net6.0\MyStore.csproj.CoreCompileInputs.cache
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Jagruthi Web App\MyStore\obj\Debug\net6.0\MyStore.MvcApplicationPartsAssemblyInfo.cache
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Jagruthi Web App\MyStore\obj\Debug\net6.0\MyStore.RazorAssemblyInfo.cache
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Jagruthi Web App\MyStore\obj\Debug\net6.0\MyStore.RazorAssemblyInfo.cs
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Jagruthi Web App\MyStore\obj\Debug\net6.0\MyStore.dll
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Jagruthi Web App\MyStore\obj\Debug\net6.0\refint\MyStore.dll
+D:\CDU\sem 5\GitHub\PRT585_TEAM_C\Group project\Jagruthi Web App\MyStore\obj\Debug\net6.0\MyStore.pdb
+>>>>>>> Stashed changes

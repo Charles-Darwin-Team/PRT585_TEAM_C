@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sujan\\source\\GitHub\\PRT585_TEAM_C\\Group project\\Jagruthi Web App\\MyStore\\MyStore.csproj": {}
+    "D:\\CDU\\sem 5\\GitHub\\PRT585_TEAM_C\\Group project\\Jagruthi Web App\\MyStore\\MyStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sujan\\source\\GitHub\\PRT585_TEAM_C\\Group project\\Jagruthi Web App\\MyStore\\MyStore.csproj": {
+    "D:\\CDU\\sem 5\\GitHub\\PRT585_TEAM_C\\Group project\\Jagruthi Web App\\MyStore\\MyStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sujan\\source\\GitHub\\PRT585_TEAM_C\\Group project\\Jagruthi Web App\\MyStore\\MyStore.csproj",
+        "projectUniqueName": "D:\\CDU\\sem 5\\GitHub\\PRT585_TEAM_C\\Group project\\Jagruthi Web App\\MyStore\\MyStore.csproj",
         "projectName": "MyStore",
-        "projectPath": "C:\\Users\\sujan\\source\\GitHub\\PRT585_TEAM_C\\Group project\\Jagruthi Web App\\MyStore\\MyStore.csproj",
-        "packagesPath": "C:\\Users\\sujan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sujan\\source\\GitHub\\PRT585_TEAM_C\\Group project\\Jagruthi Web App\\MyStore\\obj\\",
+        "projectPath": "D:\\CDU\\sem 5\\GitHub\\PRT585_TEAM_C\\Group project\\Jagruthi Web App\\MyStore\\MyStore.csproj",
+        "packagesPath": "C:\\Users\\gupth\\.nuget\\packages\\",
+        "outputPath": "D:\\CDU\\sem 5\\GitHub\\PRT585_TEAM_C\\Group project\\Jagruthi Web App\\MyStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sujan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gupth\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
